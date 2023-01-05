@@ -1,3 +1,10 @@
+Administrador de citas de máscotas creado con React y usando el framework responsivo Skeleton. 
+Se pueden agregar citas que seran guardadas en Local Storage y también eliminar las mismas.
+Link: https://guileless-crisp-2fcf1b.netlify.app/
+
+![image](https://user-images.githubusercontent.com/89424062/210696255-4715e6d3-5b71-40e2-825d-91d2a0bc9f06.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
